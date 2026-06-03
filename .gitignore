@@ -1,0 +1,19 @@
+# React
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Vite
+.vite/
