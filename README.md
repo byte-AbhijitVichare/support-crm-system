@@ -191,19 +191,19 @@ GET /api/export
 
 ### Dashboard
 
-<img src="screenshots/dashboard.png" width="800">
+<img src="screenshots/dashboard.PNG" width="800">
 
 ### Ticket Details
 
-<img src="screenshots/ticket-detail.png" width="800">
+<img src="screenshots/ticket-detail.PNG" width="800">
 
 ### Track Ticket
 
-<img src="screenshots/track-ticket.png" width="800">
+<img src="screenshots/track-ticket.PNG" width="800">
 
 ### Analytics Dashboard
 
-<img src="screenshots/analytics.png" width="800">
+<img src="screenshots/analytics.PNG" width="800">
 
 ---
 
