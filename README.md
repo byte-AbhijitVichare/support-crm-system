@@ -227,5 +227,5 @@ B.Sc. Data Science & Analytics
 
 Mumbai University
 
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/byte-AbhijitVichare
+LinkedIn: https://www.linkedin.com/in/abhijit-vichare-7a67a92a5/
